@@ -1,0 +1,22 @@
+
+.row.content {height: 5550px}
+
+
+.sidenav {
+  background-color: #332e2e;
+  height: 200%;
+}
+
+
+@media screen and (max-width: 767px) {
+  .row.content {height: auto;} 
+}
+
+
+.well {
+  display: inline-block; 
+  text-align: left; 
+  margin: 0 auto; 
+  padding: 20px; 
+  background-color: #04080c; 
+}
